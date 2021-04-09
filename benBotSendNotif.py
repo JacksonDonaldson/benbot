@@ -1,0 +1,22 @@
+import discord
+import dataStorage
+#585570690225274940-828815540533198879
+message = "default message. Error has occurred."
+client = discord.Client()
+
+@client.event
+async def on_ready():
+    print("Logged in as {0.user}".format(client))
+    await send_message(message)
+    print("test")
+    await client.logout()
+
+async def send_message(message):
+    ben = await client.fetch_user(dataStorage.discordId)
+    print(ben)
+    await ben.send(message)
+
+def start(m):
+    global message
+    message = m
+    client.run("Nzk4Mjk2MDg4NTE5OTAxMTk1.X_y9Kw.biTtCFFe8FRv3wqZgO00mCh154o")
