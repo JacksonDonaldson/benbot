@@ -19,4 +19,4 @@ async def send_message(message):
 def start(m):
     global message
     message = m
-    client.run("Nzk4Mjk2MDg4NTE5OTAxMTk1.X_y9Kw.biTtCFFe8FRv3wqZgO00mCh154o")
+    client.run("Nzk4Mjk2MDg4NTE5OTAxMTk1.X_y9Kw.PB6Ou5AJAR9YH9kRo5kZDqjkyB4")
