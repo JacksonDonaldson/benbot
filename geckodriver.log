@@ -1,0 +1,352 @@
+1618509893309	geckodriver	INFO	Listening on 127.0.0.1:52410
+1618509969804	geckodriver	INFO	Listening on 127.0.0.1:52434
+1618510075416	geckodriver	INFO	Listening on 127.0.0.1:52455
+1618510100846	geckodriver	INFO	Listening on 127.0.0.1:52464
+1618510244651	geckodriver	INFO	Listening on 127.0.0.1:52611
+1618510248066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jaxn8\\AppData\\Local\\Temp\\rust_mozprofile9q2cD7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618510250208	Marionette	INFO	Listening on port 52619
+1618510250253	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/customer-affinity/dist/client/client-a048aa60a6655ffd31f44abb2df87ea6.mjs, line 1: Error: Loading chunk 1 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/shop/customer-affinity/dist/client/1-a048aa60a6655ffd31f44abb2df87ea6.mjs)
+JavaScript error: https://assets.bbystatic.com/shop/display-ad/dist/client/client-222fb427e54fe7a1558932b16e29ee0e.mjs, line 1: ChunkLoadError: Loading chunk 1 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/shop/display-ad/dist/client/1-222fb427e54fe7a1558932b16e29ee0e.mjs)
+JavaScript error: https://assets.bbystatic.com/shop/display-ad/dist/client/client-222fb427e54fe7a1558932b16e29ee0e.mjs, line 1: ChunkLoadError: Loading chunk 1 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/shop/display-ad/dist/client/1-222fb427e54fe7a1558932b16e29ee0e.mjs)
+JavaScript error: https://assets.bbystatic.com/shop/blue-assist/dist/client/client-d829dca5fcecb783ac015820bd0356cc.js, line 1: Error: Loading chunk 1 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/shop/blue-assist/dist/client/1-d829dca5fcecb783ac015820bd0356cc.js)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/header/dist/client/client-current-42007a58fc677a4a7f64302170aa22de.mjs, line 1: TypeError: e is undefined
+JavaScript error: https://www.bestbuy.com/identity/signin?token=tid%3Aea54cdfb-9e15-11eb-913a-0a9f18331be7, line 158: ReferenceError: initializer is not defined
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/lib-dai/dist/client/client-6009ba6739d0dec68b1532c993ab7cfc.mjs, line 1: ReferenceError: actionLog is not defined
+1618510267176	Marionette	INFO	Stopped listening on port 52619
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618510359413	geckodriver	INFO	Listening on 127.0.0.1:52737
+1618510363552	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jaxn8\\AppData\\Local\\Temp\\rust_mozprofile7bRyUc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618510365722	Marionette	INFO	Listening on port 52745
+1618510366245	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+1618510368770	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www.bestbuy.com/identity/signin?token=tid%3A2eb3dacd-9e16-11eb-b5c4-0a8374d793b7, line 158: ReferenceError: initializer is not defined
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/lib-dai/dist/client/client-6009ba6739d0dec68b1532c993ab7cfc.mjs, line 1: ReferenceError: actionLog is not defined
+JavaScript error: https://www.bestbuy.com/identity/signin?token=tid%3A31ffaaea-9e16-11eb-b7fa-0e594c6a1e23, line 158: ReferenceError: initializer is not defined
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/lib-dai/dist/client/client-6009ba6739d0dec68b1532c993ab7cfc.mjs, line 1: ReferenceError: actionLog is not defined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1618510382607	Marionette	INFO	Stopped listening on port 52745
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/analytics-dotcom/analyticsInit-d63db18cd56dd67d3e10c4c29a996786.js, line 4: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618510383321	geckodriver	INFO	Listening on 127.0.0.1:52861
+1618510386910	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jaxn8\\AppData\\Local\\Temp\\rust_mozprofilelbUDxI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618510388802	Marionette	INFO	Listening on port 52869
+1618510388971	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/header/dist/client/client-current-42007a58fc677a4a7f64302170aa22de.mjs, line 1: TypeError: e is undefined
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/customer-affinity/dist/client/client-a048aa60a6655ffd31f44abb2df87ea6.mjs, line 1: Error: Loading chunk 1 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/shop/customer-affinity/dist/client/1-a048aa60a6655ffd31f44abb2df87ea6.mjs)
+1618510404329	Marionette	INFO	Stopped listening on port 52869
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618510687145	geckodriver	INFO	Listening on 127.0.0.1:53050
+1618510691233	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jaxn8\\AppData\\Local\\Temp\\rust_mozprofiletHVZ29"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618510693415	Marionette	INFO	Listening on port 53058
+1618510693917	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/header/dist/client/client-42007a58fc677a4a7f64302170aa22de.mjs, line 1: ChunkLoadError: Loading chunk 8 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/shop/header/dist/client/flyout-component-42007a58fc677a4a7f64302170aa22de.mjs)
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+1618510696341	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www.bestbuy.com/identity/signin?token=tid%3Af1fcd624-9e16-11eb-9f87-0eedb706a67f, line 158: ReferenceError: initializer is not defined
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/lib-dai/dist/client/client-6009ba6739d0dec68b1532c993ab7cfc.mjs, line 1: ReferenceError: actionLog is not defined
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/header/dist/client/client-42007a58fc677a4a7f64302170aa22de.mjs, line 1: ChunkLoadError: Loading chunk 8 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/shop/header/dist/client/flyout-component-42007a58fc677a4a7f64302170aa22de.mjs)
+1618510700483	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www.bestbuy.com/identity/signin?token=tid%3Af46c4f1d-9e16-11eb-838e-0aa4361a5dbf, line 158: ReferenceError: initializer is not defined
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/lib-dai/dist/client/client-6009ba6739d0dec68b1532c993ab7cfc.mjs, line 1: ReferenceError: actionLog is not defined
+JavaScript error: https://www.bestbuy.com/identity/signin?token=tid%3Af7172415-9e16-11eb-b7fa-0e594c6a1e23, line 158: ReferenceError: initializer is not defined
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/lib-dai/dist/client/client-6009ba6739d0dec68b1532c993ab7cfc.mjs, line 1: ReferenceError: actionLog is not defined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1618510713166	Marionette	INFO	Stopped listening on port 53058
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618510713899	geckodriver	INFO	Listening on 127.0.0.1:53177
+1618510717455	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jaxn8\\AppData\\Local\\Temp\\rust_mozprofileQBbH3A"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618510719519	Marionette	INFO	Listening on port 53185
+1618510719547	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.bbystatic.com/shop/blue-assist/dist/client/client-d829dca5fcecb783ac015820bd0356cc.js, line 1: Error: Loading chunk 1 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/shop/blue-assist/dist/client/1-d829dca5fcecb783ac015820bd0356cc.js)
+JavaScript error: , line 0: uncaught exception: undefined
+1618510733256	Marionette	INFO	Stopped listening on port 53185
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618518758022	geckodriver	INFO	Listening on 127.0.0.1:55031
+1618518761358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jaxn8\\AppData\\Local\\Temp\\rust_mozprofilel2Zjjx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618518763531	Marionette	INFO	Listening on port 55039
+1618518764046	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/customer-affinity/dist/client/client-a048aa60a6655ffd31f44abb2df87ea6.mjs, line 1: Error: Loading chunk 1 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/shop/customer-affinity/dist/client/1-a048aa60a6655ffd31f44abb2df87ea6.mjs)
+JavaScript error: https://assets.bbystatic.com/shop/display-ad/dist/client/client-222fb427e54fe7a1558932b16e29ee0e.mjs, line 1: ChunkLoadError: Loading chunk 1 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/shop/display-ad/dist/client/1-222fb427e54fe7a1558932b16e29ee0e.mjs)
+JavaScript error: https://assets.bbystatic.com/shop/display-ad/dist/client/client-222fb427e54fe7a1558932b16e29ee0e.mjs, line 1: ChunkLoadError: Loading chunk 1 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/shop/display-ad/dist/client/1-222fb427e54fe7a1558932b16e29ee0e.mjs)
+JavaScript error: https://assets.bbystatic.com/shop/blue-assist/dist/client/client-d829dca5fcecb783ac015820bd0356cc.js, line 1: Error: Loading chunk 1 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/shop/blue-assist/dist/client/1-d829dca5fcecb783ac015820bd0356cc.js)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/header/dist/client/client-current-42007a58fc677a4a7f64302170aa22de.mjs, line 1: TypeError: e is undefined
+JavaScript error: https://www.bestbuy.com/identity/signin?token=tid%3Abd185c23-9e29-11eb-b2ed-0edf77dade51, line 158: ReferenceError: initializer is not defined
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/lib-dai/dist/client/client-6009ba6739d0dec68b1532c993ab7cfc.mjs, line 1: ReferenceError: actionLog is not defined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1618518777130	Marionette	INFO	Stopped listening on port 55039
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/widget-view/widgets-view-ca2780eec40e838ed309.js, line 31: NS_ERROR_UNEXPECTED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618518777868	geckodriver	INFO	Listening on 127.0.0.1:55150
+1618518781144	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jaxn8\\AppData\\Local\\Temp\\rust_mozprofilewXLIby"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618518783277	Marionette	INFO	Listening on port 55158
+1618518783310	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/header/dist/client/client-current-42007a58fc677a4a7f64302170aa22de.mjs, line 1: TypeError: e is undefined
+JavaScript error: https://assets.bbystatic.com/shop/display-ad/dist/client/client-222fb427e54fe7a1558932b16e29ee0e.mjs, line 1: ChunkLoadError: Loading chunk 1 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/shop/display-ad/dist/client/1-222fb427e54fe7a1558932b16e29ee0e.mjs)
+JavaScript error: https://assets.bbystatic.com/shop/display-ad/dist/client/client-222fb427e54fe7a1558932b16e29ee0e.mjs, line 1: ChunkLoadError: Loading chunk 1 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/shop/display-ad/dist/client/1-222fb427e54fe7a1558932b16e29ee0e.mjs)
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/header/dist/client/welcome-back-42007a58fc677a4a7f64302170aa22de.mjs, line 1: TypeError: t is undefined
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/customer-affinity/dist/client/client-a048aa60a6655ffd31f44abb2df87ea6.mjs, line 1: Error: Loading chunk 1 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/shop/customer-affinity/dist/client/1-a048aa60a6655ffd31f44abb2df87ea6.mjs)
+JavaScript error: https://assets.bbystatic.com/shop/blue-assist/dist/client/client-d829dca5fcecb783ac015820bd0356cc.js, line 1: Error: Loading chunk 1 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/shop/blue-assist/dist/client/1-d829dca5fcecb783ac015820bd0356cc.js)
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/location-persistence/dist/client/client-07404307dcd4f669a604c5a39c32cc2e.mjs, line 1: Error: storeId required
+1618518798048	Marionette	INFO	Stopped listening on port 55158
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618518896702	geckodriver	INFO	Listening on 127.0.0.1:55315
+1618518899948	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jaxn8\\AppData\\Local\\Temp\\rust_mozprofilet9xHLC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618518902144	Marionette	INFO	Listening on port 55323
+1618518902631	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1618518911386	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/location-persistence/dist/client/client-07404307dcd4f669a604c5a39c32cc2e.mjs, line 1: Error: storeId required
+1618518931593	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/cart.bundle-e1d29f0a4af2eb1ad6d17db14b77dcda.js, line 148: TypeError: e is null
+JavaScript error: https://assets.bbystatic.com/shop/master-ad/dist/client/client-d85836ea3c007bcce44b630c9258e9e0.mjs, line 1: TypeError: t.props.breadCrumb is undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+JavaScript error: https://www.bestbuy.com/identity/signin?token=tid%3A21cdc2cc-9e2a-11eb-b215-005056aea131, line 158: ReferenceError: initializer is not defined
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/lib-dai/dist/client/client-6009ba6739d0dec68b1532c993ab7cfc.mjs, line 1: ReferenceError: actionLog is not defined
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618519448631	Marionette	INFO	Stopped listening on port 55323
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Temp\\rust_mozprofileAADspO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618519020385	Marionette	INFO	Listening on port 55536
+1618519020407	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.bbystatic.com/shop/sku-purchase-activity/dist/client/client-848a399010901d162bbcb681b201e6ac.js, line 1: Error: Loading chunk 0 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/shop/sku-purchase-activity/dist/client/0-848a399010901d162bbcb681b201e6ac.js)
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/step-up-accordion/dist/client/client-d0cf44b632c6399cfc4fdd6618f2a386.js, line 1: Error: Loading chunk 0 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/shop/step-up-accordion/dist/client/0-d0cf44b632c6399cfc4fdd6618f2a386.js)
+JavaScript error: https://assets.bbystatic.com/shop/blue-assist/dist/client/client-d829dca5fcecb783ac015820bd0356cc.js, line 1: Error: Loading chunk 1 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/shop/blue-assist/dist/client/1-d829dca5fcecb783ac015820bd0356cc.js)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/user-generated-content/ratings-and-reviews/dist/client/client-ded8e58fad107cfc48f8bdcb2be24043.mjs, line 1: ChunkLoadError: Loading chunk 1 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/user-generated-content/ratings-and-reviews/dist/client/1-ded8e58fad107cfc48f8bdcb2be24043.mjs)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://assets.bbystatic.com/shop/google-adsense/dist/client/client-bff87a700583cef4449f4538b9752cce.mjs, line 1: ChunkLoadError: Loading chunk 1 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/shop/google-adsense/dist/client/1-bff87a700583cef4449f4538b9752cce.mjs)
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/user-generated-content/question-distillation/dist/client/client-5950b31fb70dc6367f9e8b12ce473494.mjs, line 1: ChunkLoadError: Loading chunk 1 failed.
+(error: https://www.bestbuy.com/~assets/bby/_com/user-generated-content/question-distillation/dist/client/1-5950b31fb70dc6367f9e8b12ce473494.mjs)
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1618519026750	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/location-persistence/dist/client/client-07404307dcd4f669a604c5a39c32cc2e.mjs, line 1: Error: storeId required
+1618519041157	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/cart.bundle-e1d29f0a4af2eb1ad6d17db14b77dcda.js, line 148: TypeError: e is null
+JavaScript error: https://assets.bbystatic.com/shop/master-ad/dist/client/client-d85836ea3c007bcce44b630c9258e9e0.mjs, line 1: TypeError: t.props.breadCrumb is undefined
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/page-style.js:1002:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: "getApplied@resource://devtools/server/actors/page-style.js:571:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child3/pagestyle30 (resource://devtools/server/actors/page-style.js:1002:5)", "resource://devtools/shared/protocol/Front.js", 361))
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+JavaScript error: https://www.bestbuy.com/identity/signin/verificationCode?token=tid%3A62ea76a6-9e2a-11eb-b215-005056aea131, line 158: ReferenceError: initializer is not defined
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/shop/lib-dai/dist/client/client-6009ba6739d0dec68b1532c993ab7cfc.mjs, line 1: ReferenceError: actionLog is not defined
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/optimized.bundle-15c21b98100c80bcc08e4ba6ac2be3c7.js, line 149: TypeError: t.street2 is undefined
+JavaScript error: https://assets.bbystatic.com/shop/master-ad/dist/client/client-d85836ea3c007bcce44b630c9258e9e0.mjs, line 1: TypeError: t.props.breadCrumb is undefined
+1618519443188	Marionette	INFO	Stopped listening on port 55536
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

@@ -5,7 +5,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import dataStorage
 import sys
-
+import emailChecker
 # email = "mopavet284@ddwfzp.com"
 # password = "thisisatestpassword"
 
@@ -85,6 +85,20 @@ def purchase(url):
     try:
         elem = driver.find_element_by_id("fld-p1")
         elem.send_keys(dataStorage.password)
+        elem.send_keys(Keys.RETURN)
+        time.sleep(5)
+    except:
+        pass
+    #we might get checked for an email here. To combat that, I check for that field
+    try:
+        elem = driver.find_element_by_id("verificationCode")
+        while True:
+            try:
+                code = emailChecker.checkMostRecentEmail()
+                break
+            except:
+                pass
+        elem.send_keys(code)
         elem.send_keys(Keys.RETURN)
         time.sleep(5)
     except:
@@ -183,7 +197,7 @@ while True:
         if t.status_code != 200:
             notif.start("An error has occurred with the bot, and it has quit. Most likely, bestbuy blocked it from requesting the webpage. If you see this, contact Jackson")
             break
-        if ">Sold Out</button>" not in t.text:
+        if ">Sold Out</button>" in t.text:
             # executes if the webpage doesn't have a sold out button
             notif.start("A " + url + " is available. Attempting purchase.")
             purchase(url)

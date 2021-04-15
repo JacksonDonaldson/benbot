@@ -1,9 +1,10 @@
-1. Create a best buy account
+1. Create a best buy account, and install firefox if it is not already installed
 2. Save as much information as you can to that account 
 	(1 credit card number, shipping address, ect)
 3. Ensure you have verified your email, then sign out. 
 	If bestbuy prompts an email verification when the 
 	bot attempts to check out, it will fail.
+
 4. run "firstTimeSetup.cmd"
 	this creates a file used by the rest of the program to store your login info
 5. Every time you want to start the bot, run "run.cmd"
