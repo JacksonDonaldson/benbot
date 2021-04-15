@@ -350,3 +350,11 @@ JavaScript error: https://assets.bbystatic.com/shop/master-ad/dist/client/client
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1618521038910	geckodriver	INFO	Listening on 127.0.0.1:55986
+1618521042099	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Jaxn8\\AppData\\Local\\Temp\\rust_mozprofile6GUnXw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618521044275	Marionette	INFO	Listening on port 55994
+1618521052760	Marionette	INFO	Stopped listening on port 55994
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

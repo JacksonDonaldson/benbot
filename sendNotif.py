@@ -9,7 +9,7 @@ async def on_ready():
     print("Logged in as {0.user}".format(client))
     await send_message(message)
     print("test")
-    await client.logout()
+    await client.close()
 
 async def send_message(message):
     user = await client.fetch_user(dataStorage.discordId)

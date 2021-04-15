@@ -6,6 +6,7 @@ from selenium.webdriver.common.keys import Keys
 import dataStorage
 import sys
 import emailChecker
+import imaplib
 # email = "mopavet284@ddwfzp.com"
 # password = "thisisatestpassword"
 
@@ -188,6 +189,13 @@ def purchase(url):
 
 print("bot started. Awaiting stock.")
 
+#this email login is just to prevent google from being dumb
+imap = imaplib.IMAP4_SSL("imap.gmail.com")
+imap.login(dataStorage.email, dataStorage.emailPassword)
+imap.select()
+imap.close()
+imap.logout()
+
 while True:
     for url in dataStorage.urls:
         try:
@@ -197,7 +205,7 @@ while True:
         if t.status_code != 200:
             notif.start("An error has occurred with the bot, and it has quit. Most likely, bestbuy blocked it from requesting the webpage. If you see this, contact Jackson")
             break
-        if ">Sold Out</button>" in t.text:
+        if ">Sold Out</button>" not in t.text:
             # executes if the webpage doesn't have a sold out button
             notif.start("A " + url + " is available. Attempting purchase.")
             purchase(url)
