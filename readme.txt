@@ -1,3 +1,6 @@
+An attempt to create a bot to purchase a 3080 on bestbuy
+
+To start:
 1. Create a new google account. Don't use it for anything else.
 2. Go to my account-> security-> less secure app access-> on
 3. install firefox if it is not already installed on your computer
